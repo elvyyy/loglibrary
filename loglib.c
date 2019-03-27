@@ -1,4 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include "loglib.h"
 #include <stdio.h>
 #include <stdarg.h>
